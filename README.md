@@ -23,4 +23,7 @@
 ![Umang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umanggoel21&show_icons=true&theme=radical)  
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-UmangGoel-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/umang-goel-417446309/) 
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-UmangGoel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/umang-goel-417446309/)  
+[![Email](https://img.shields.io/badge/Email-work.umanggoel@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:work.umanggoel@gmail.com)  
+
