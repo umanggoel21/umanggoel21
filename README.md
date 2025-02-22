@@ -23,4 +23,4 @@
 ![Umang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umanggoel21&show_icons=true&theme=radical)  
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-UmangGoel-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-UmangGoel-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/umang-goel-417446309/) 
