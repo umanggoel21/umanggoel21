@@ -1,50 +1,27 @@
-# Umang Goel — ML Engineer & AI Product Developer
+# Umang Goel
 
-🎓 B.Tech CSE (AI & ML) | 2026 Graduate | Open to Work
-
----
-
-## About Me
-
-I build end-to-end AI products — from model training to deployed APIs.
-My focus is on NLP, RAG pipelines, and backend systems that ship to production.
-
-- 🔭 Currently working on: PaperPilot — AI research assistant with RAG
-- 🌱 Learning: PyTorch, Docker, LLM fine-tuning
-- 💼 Seeking: ML Engineer / AI Product Engineer / SDE roles
-- 📍 Based in India | Open to remote & relocation
+AI/ML Developer — building end-to-end systems from model training to deployed APIs.
+I work across NLP, RAG pipelines, and backend engineering.
+Open to work — ML Engineer / SDE roles.
 
 ---
 
 ## Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [PaperPilot](https://github.com/umanggoel21/paperpilot) | AI research assistant with deep research & RAG pipeline | Python, FastAPI, Gemini |
-| [HireNix](https://github.com/umanggoel21/hirenix) | Resume analytics platform with NLP-based skill extraction | spaCy, NLTK, Flask, SQL |
-| [ImagiCode](https://github.com/umanggoel21/imagicode) | Sketch-to-code generator using CNN | Keras, OpenCV, Python |
-| [SQL Roadmap](https://github.com/umanggoel21/sql-roadmap) | 30-day structured SQL curriculum | PostgreSQL, MySQL |
+**[PaperPilot](https://github.com/umanggoel21/paperpilot)** — AI Research Assistant
+RAG pipeline with hybrid fuzzy + keyword matching. Built on Flask, LLM APIs, React. Includes LRU caching, exponential backoff, and sliding window chunking for long documents. ~70% reduction in literature review time.
 
----
+**[HireNix](https://github.com/umanggoel21/hirenix)** — Resume Analytics Platform
+Custom NLP pipeline with spaCy + NLTK that extracts and scores skills against job descriptions. ~85% keyword-match accuracy. Flask + SQL backend.
 
-## Tech Stack
+**[ImagiCode](https://github.com/umanggoel21/imagicode)** — Sketch to Code
+Hand-draw a UI wireframe → get HTML/CSS output. CNN classifier built with Keras + OpenCV. ~60% faster UI prototyping.
 
-**Languages:** Python, JavaScript, TypeScript, SQL
-
-**AI/ML:** scikit-learn, Keras, spaCy, NLTK, Gemini API, RAG
-
-**Backend:** Flask, FastAPI, REST APIs
-
-**Frontend:** React.js, Next.js, Tailwind CSS
-
-**Databases:** PostgreSQL, MySQL, SQLite
-
-**Tools:** Git, Docker (learning), VS Code
+**[SQL Roadmap](https://github.com/umanggoel21/sql-roadmap)** — 30-Day SQL Curriculum
+Structured curriculum on the Chinook database. Runnable queries, real data. Covers window functions, CTEs, indexes, and query optimization. Built for interview prep.
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-UmangGoel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/umang-goel-417446309/)
-[![Email](https://img.shields.io/badge/Email-work.umanggoel@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:work.umanggoel@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-umanggoel21-black?style=for-the-badge&logo=github)](https://github.com/umanggoel21)
+[LinkedIn](https://www.linkedin.com/in/umanggoel21/) · [Email](mailto:umang210405@gmail.com)
